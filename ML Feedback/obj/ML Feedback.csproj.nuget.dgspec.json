@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maria Anatoliivna\\Source\\Repos\\ML.NET-Feedback-\\ML Feedback\\ML Feedback.csproj": {}
+    "C:\\Users\\Maria Anatoliivna\\source\\repos\\ML.NET-Feedback-\\ML Feedback\\ML Feedback.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maria Anatoliivna\\Source\\Repos\\ML.NET-Feedback-\\ML Feedback\\ML Feedback.csproj": {
+    "C:\\Users\\Maria Anatoliivna\\source\\repos\\ML.NET-Feedback-\\ML Feedback\\ML Feedback.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maria Anatoliivna\\Source\\Repos\\ML.NET-Feedback-\\ML Feedback\\ML Feedback.csproj",
+        "projectUniqueName": "C:\\Users\\Maria Anatoliivna\\source\\repos\\ML.NET-Feedback-\\ML Feedback\\ML Feedback.csproj",
         "projectName": "ML Feedback",
-        "projectPath": "C:\\Users\\Maria Anatoliivna\\Source\\Repos\\ML.NET-Feedback-\\ML Feedback\\ML Feedback.csproj",
+        "projectPath": "C:\\Users\\Maria Anatoliivna\\source\\repos\\ML.NET-Feedback-\\ML Feedback\\ML Feedback.csproj",
         "packagesPath": "C:\\Users\\Maria Anatoliivna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maria Anatoliivna\\Source\\Repos\\ML.NET-Feedback-\\ML Feedback\\obj\\",
+        "outputPath": "C:\\Users\\Maria Anatoliivna\\source\\repos\\ML.NET-Feedback-\\ML Feedback\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maria Anatoliivna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[0.8.0, )"
+            },
+            "Microsoft.ML.DataView": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

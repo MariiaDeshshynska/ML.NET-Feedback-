@@ -1,0 +1,50 @@
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\ML Feedback.exe
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\ML Feedback.deps.json
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\ML Feedback.runtimeconfig.json
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\ML Feedback.runtimeconfig.dev.json
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\ML Feedback.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\ML Feedback.pdb
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.Api.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.Ensemble.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.FastTree.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.Legacy.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.Maml.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.ResultProcessor.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.SamplesUtils.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardLearners.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.Sweeper.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libFactorizationMachineNative.so
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libFactorizationMachineNative.dylib
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\FactorizationMachineNative.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\FactorizationMachineNative.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libCpuMathNative.so
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libCpuMathNative.dylib
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\CpuMathNative.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\CpuMathNative.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\obj\Debug\netcoreapp3.1\ML Feedback.csprojAssemblyReference.cache
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\obj\Debug\netcoreapp3.1\ML Feedback.AssemblyInfoInputs.cache
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\obj\Debug\netcoreapp3.1\ML Feedback.AssemblyInfo.cs
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\obj\Debug\netcoreapp3.1\ML Feedback.csproj.CoreCompileInputs.cache
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\obj\Debug\netcoreapp3.1\ML Feedback.csproj.CopyComplete
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\obj\Debug\netcoreapp3.1\ML Feedback.dll
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\obj\Debug\netcoreapp3.1\ML Feedback.pdb
+C:\Users\Maria Anatoliivna\source\repos\ML.NET-Feedback-\ML Feedback\obj\Debug\netcoreapp3.1\ML Feedback.genruntimeconfig.cache
